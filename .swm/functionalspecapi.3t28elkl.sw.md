@@ -1,5 +1,5 @@
 ---
-title: FunctionalSpec
+title: FunctionalSpecApi
 ---
 # explain about this document
 
